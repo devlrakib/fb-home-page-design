@@ -28,6 +28,7 @@ nav{
     justify-content: center; */
 }
 
+/*-----------facebook searchbox design css--------------*/
 .box{
     background-color: #eee;
     /* background-color: aqua; */
@@ -39,7 +40,7 @@ nav{
     justify-content: space-between;
     padding: 0px 25px;
     margin-top: 10px;
-    padding-top: 5px;
+    padding-top: 4px;
     gap: 13px;
 }
 
@@ -47,13 +48,34 @@ input{
     width: 240px;
     border: none;
     outline: none;
-    background: none;
-    
+    background: none;    
 }
 
 .fa-solid:hover{
     color: orange;
     cursor: pointer;
+}
+
+
+/* middle navigation css */
+.middle_nav ul{
+    display: flex;
+    gap: 150px;   
+}
+
+.middle_nav {
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.middle_nav ul li{
+    list-style-type: none;   
+}
+
+.middle_nav ul li img{
+    width: 22px;
+    height: 22.5px;
+    margin-top: 15px;  
 }
 
 
