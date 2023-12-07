@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+                                    /* ------------------Facebook left logo css apply--------------------- */
+.logo img{
+    width: 40px;
+    height: 39.86px;
+    /* margin-top: 10px; */ 
+    margin-left: 18px;
+    
+}
+
+.logo{
+    padding-top: 10px;
+}
+
+nav{
+    height: 59px;
+    /* background-color: aqua; */
+    border-bottom: 1px solid #eee;
+    display: flex;
+    /* margin-top: 10px; */
+    gap: 13px;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.box{
+    background-color: #eee;
+    /* background-color: aqua; */
+    width: 240px;
+    height: 40px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+    margin-top: 10px;
+    padding-top: 5px;
+    gap: 13px;
+}
+
+input{
+    width: 240px;
+    border: none;
+    outline: none;
+    background: none;
+    
+}
+
+.fa-solid:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+
+
