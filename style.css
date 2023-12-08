@@ -330,8 +330,159 @@ svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq {
     margin-top: 20px;
 }
 
+.x1lliihq{
+    margin-top: 20px;
+}
+
+/* ---- Edit Button CSS Apply */
+
+/* .Edit .btn{
+    padding: 10px 5px;
+    color: rgb(0, 110, 255);
+    border: none;
+    outline: none;
+    margin-left: 330px;
+    background-color: none; 
+    margin-top: -120px;
+} */
+
+/* ------ SEO Expert CSS Start------ */
+.seo_expert ul8{
+    display: flex;
+}
+
+.seo_expert ul8 img{
+    width: 35px;
+    height: 35px;  
+}
+
+.seo_expert ul8 img{
+    margin-left: 10px;
+}
+
+.seo_expert ul8 li{
+    list-style-type: none;
+}
+
+.seo_expert img{
+    margin-top: 8px;
+    border-radius: 10px;
+}
 
 
+span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
+    margin-top: 14px;
+    margin-left: 10px;
+}
+
+.seo_expert:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+/* ------ SEO Expert CSS End------ */
+
+/* ------ Learn From Top Rated Freelamcer start------------- */
+.freelancer ul9{
+    display: flex;
+}
+
+.freelancer ul9 img{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px; 
+}
+
+.freelancer ul9 li{
+    list-style-type: none;
+}
+
+.freelancer img{
+    margin-top: 8px;
+    border-radius: 10px;
+}
+span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
+    margin-top: 16px;
+}
+
+.freelancer:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+/* ------ Learn From Top Rated Freelamcer End------------- */
+
+/* ------ Free Wordpress Theme And Plugin start ----------- */
+.wordpress ul10{
+    display: flex;
+}
+.wordpress ul10 li{
+    list-style-type: none;
+}
+.wordpress ul10 img{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+.wordpress img{
+    margin-top: 8px;
+    border-radius: 10px;
+}
+
+.wordpress:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+/* ------ Free Wordpress Theme And Plugin End ----------- */
+
+/* ------ hablu programmer community start ----------- */
+.hablu ul11{
+  display: flex;
+}
+
+.hablu ul11 li{
+    list-style-type: none;
+}
+
+.hablu ul11 img{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+.hablu img{
+    margin-top: 8px;
+    border-radius: 10px;
+}
+
+.hablu:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+/* ------ hablu programmer community End ----------- */   
+
+/* ------ Unique Way Of Your Selling service start --------- */
+.unique ul12{
+    display: flex;
+}
+
+.unique ul12 li{
+    list-style-type: none;
+}
+
+.unique ul12 img{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+.unique img{
+    margin-top: 8px;
+    border-radius: 10px;
+}
+
+.unique:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
 
 
 
