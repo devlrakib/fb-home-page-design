@@ -154,7 +154,7 @@ input{
 }
 
 
-/*---------Left Side friend Icon Plus Name-------------*/
+/*---------Left Side friend Icon Plus start Name-------------*/
 .friends1 i{
     margin-top: 5px;
     margin-left: 12px;
@@ -185,4 +185,153 @@ input{
     background-color: #eee;
     border-radius: 10px;
 }
+/*---------Left Side friend Icon Plus End Name-------------*/
+
+/*----------------Facebook pages Start------------------- */
+
+.facebook_pages ul3{
+    display: flex;
+}
+
+.facebook_pages ul3 li{
+    list-style-type: none;
+}
+
+.facebook_pages ul3 li i{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.facebook_pages ul3 li p{
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.facebook_pages:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+/*----------------Facebook pages End------------------- */
+
+/* -----Facebook Saved Start------------ */
+.facebook_paged ul4{
+    display: flex;
+}
+
+.facebook_paged ul4 li{
+    list-style-type: none;
+}
+
+.facebook_paged ul4 li i{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.facebook_paged ul4 li p{
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.facebook_paged:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+/* ------- Facebook Saved End---------- */
+
+/* ------- Facebook Memories CSS Start----------- */
+
+.memories ul5{
+    display: flex;
+}
+
+.memories ul5 li{
+    list-style-type: none;
+}
+
+.memories ul5 li i{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.memories ul5 p{
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.memories:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+/*------- Facebook Memories CSS Apply End--------*/
+
+/*------- Facebook Group CSS Start------------- */
+
+.group ul6{
+    display: flex;
+}
+
+
+.group ul6 li{
+    list-style-type: none;
+}
+
+.group ul6 li i{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.group ul6 p{
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+.group:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+
+/*------- Facebook See More CSS Start----------- */
+.see_more ul7{
+    display: flex;
+}
+
+.see_more ul7 li{
+    list-style-type: none;
+}
+
+.see_more ul7 li i{
+    margin-top: 13px;
+    margin-left: 18px;
+}
+
+.see_more ul7 p{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq {
+    margin-left: 18px;
+    margin-top: 8px;
+}
+
+.see_more:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+/*------- Facebook See More CSS End----------- */
+
+/*------- Facebook Css Border Bottom------------- */
+.border_bootom{
+    border-bottom: 2px solid #eee;
+    margin-top: 20px;
+}
+
+
+
+
+
 
