@@ -652,4 +652,200 @@ span.x1lliihq1.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
     margin-left: 1250px;
 }
 
+.container_1{
+    position: absolute;
+    width: 836px;
+    height: 100vh;
+    /* background-color: aqua; */
+    margin-top: -240px;
+    margin-left: 610px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
 
+.hablu_sajjad ul14{
+    display: flex;
+}
+
+
+.hablu_sajjad ul14 li{
+    list-style-type: none;
+}
+
+.hablu_sajjad ul14 img{
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 10px;
+}
+
+.hablu_sajjad ul14 p{
+    margin-top: 22px;
+    margin-left: 10px;
+}
+
+
+.hablu_sajjad1 ul14{
+    display: flex;
+}
+
+.hablu_sajjad1 ul14 li{
+    list-style-type: none;
+}
+
+.hablu_sajjad1 ul14 img{
+    position: absolute;
+    border-radius: 50px;
+    margin-top: -28px;
+    margin-left: 52px;
+}
+
+.hablu_sajjad1 ul14 p{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 82px;
+}
+
+ul142 .x1i10hfl{
+    position: absolute;
+    margin-top: -58px;
+    margin-left: 730px;
+}
+
+ul142 .x1b0d499{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 780px;
+}
+
+.sajjad_img p{
+    margin-left: 22px;
+}
+
+.sajjad_img img{
+    margin-top: 10px;
+}
+
+img.x16dsc37 {
+    margin-left: 20px;
+}
+img.x16dsc371 {
+    margin-left: -7px;
+}
+
+p.x1e558r4 {
+    margin-left: 60px;
+    margin-top: -20px;
+}
+
+p.right_30 {
+    margin-top: -20px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.main_first_bottom{
+    margin-top: 20px;
+    width: 800px;
+    margin-left: 18px;
+    border: 1px solid #eee;
+}
+
+.like .fa-thumbs-up{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.like p{
+    margin-top: -18px;
+    margin-left: 120px;
+    color: #616161;
+}
+
+.comment .fa-regular{
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 380px;
+}
+
+.comment p{
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 400px;  
+}
+
+.share .fa-share{
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 660px;
+}
+
+.share p{
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 680px; 
+}
+
+.main_second_bottom{
+    margin-top: 10px;
+    width: 800px;
+    margin-left: 18px;
+    border: 1px solid #eee;
+}
+
+.comments p{
+    margin-top: 20px;
+}
+
+.hablu_post_comment img{
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+input#mind2 {
+    position: absolute;
+    background-color: #e4e6e8;
+    padding: 10px;
+    width: 250px;
+    height: 60px;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-top: -30px;
+    font-size: 18px;
+}
+
+
+.f_img img{
+    width: 24px;
+    height: 24px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+span.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j {
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 80px;
+}
+.xi81zsa.x1ypdohk.x1rg5ohu.x117nqv4.x1n2onr6.xt0b8zv {
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 170px;
+}
+
+.x1i10hfl.xjbqb8w.x6umtig.x1b1mbwd.xaqea5y.xav7gou.x9f619.x1ypdohk.xt0psk2.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x16tdsg8.x1hl2dhg.xggy1nq.x1a2a7pz.xt0b8zv.xi81zsa.x1xlr1w8 {
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 260px;
+}
+
+input#mind3 {
+    position: absolute;
+    background-color: #e4e6e8;
+    padding: 10px;
+    width: 750px;
+    height: 60px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: -20px;
+    font-size: 18px;
+}
