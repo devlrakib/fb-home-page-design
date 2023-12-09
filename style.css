@@ -849,3 +849,41 @@ input#mind3 {
     margin-top: -20px;
     font-size: 18px;
 }
+
+/* ----------- Green Circle/Actoivate Icon CSS Start----------- */
+
+.ring-container {
+    position: relative;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    background-color: #3ba424;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring {
+    border: 3px solid #3ba424;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle {
+    margin-top: -33px;
+    width: 8px;
+    height: 8px;
+    margin-left: 11px;
+}
+
+/* ----------- Green Circle/Actoivate Icon CSS End----------- */
