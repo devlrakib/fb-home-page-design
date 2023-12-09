@@ -484,5 +484,172 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
     border-radius: 10px;
 }
 
+/* ------ Unique Way Of Your Selling service End --------- */
+
+/*------- Facebook See More CSS Start----------- */
+.see_more ul13{
+    display: flex;
+}
+
+.see_more ul13 li{
+    list-style-type: none;
+}
+
+.see_more ul13 li i{
+    margin-top: 13px;
+    margin-left: 18px;
+}
+
+.see_more ul13 p{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq {
+    margin-left: 18px;
+    margin-top: 8px;
+}
+
+.see_more:hover{
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+/*------- Facebook See More CSS End----------- */
+/* ------ Middle Position header Start -------- */
+.first_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 610px;
+    border-radius: 10px;
+}
+
+.second_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 760px;
+    border-radius: 10px;
+}
+
+.third_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 910px;
+    border-radius: 10px; 
+}
+
+.fourth_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 1060px;
+    border-radius: 10px;
+}
+
+.five_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 1210px;
+    border-radius: 10px; 
+}
+
+.six_img{
+    position: absolute;
+    margin-top: -660px;
+    margin-left: 1360px;
+    border-radius: 10px;
+}
+/* ------ Middle Position header End -------- */
+
+.section{
+    position: absolute;
+    width: 836px;
+    height: 125px;
+    /* background-color: aqua; */
+    margin-top: -380px;
+    margin-left: 610px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+
+.account img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+input#mind {
+    position: absolute;
+    background-color: #e4e6e8;
+    padding: 10px;
+    width: 750px;
+    height: 45px;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-top: -50px;
+    font-size: 18px;
+}
+
+.middle_bottom{
+    border: 1px solid #eee;
+    width: 800px;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+
+.xz74otr {
+    object-fit: fill;
+}
+
+img.xz74otr {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.live_vide .video{
+  margin-top: -24px;
+  margin-left: 130px;
+}
+.live .live_video{
+    width: 260px;
+    height: 36px;
+    /* background-color: aqua; */
+}
+.live_video{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 600px;
+   
+}
+
+p.video {
+    margin-top: -25px;
+    margin-left: 180px;
+}
+.photo .xz74otr {
+    position: absolute;
+    margin-top: -290px;
+    margin-left: 980px;
+}
+
+
+span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
+    position: absolute;
+    margin-top: -285px;
+    margin-left: 1010px;
+}
+
+img.xz74otr1 {
+    position: absolute;
+    margin-top: -290px;
+    margin-left: 1220px;
+}
+
+span.x1lliihq1.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
+    position: absolute;
+    margin-top: -285px;
+    margin-left: 1250px;
+}
 
 
