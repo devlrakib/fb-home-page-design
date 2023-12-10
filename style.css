@@ -937,13 +937,194 @@ i.fa-regular.fa-face-smile {
     margin-top: 2px;
 }
 
-.seo_middle{
+/*------------------------ Middle Position header Start/ Second Middle Container Start -------------------------------- */
+.shamimvai_middle{
     width: 836px;
     height: 100vh;
-    /* background-color: aqua;  */
-    margin-top: 710px;
+    background-color: #70843d; 
+    margin-top: 780px;
+    margin-left: 610px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+.shamimp  ul20{
+    display: flex;
+}
+
+.shamimp  ul20 li{
+    list-style-type: none;
+}
+.shamimvai_middle img{
+    margin-left: 75px;
+    width: 690px;
+}
+
+.shamimp p{
+    margin-top: 60px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.text p{
+    margin-top: 10px;
+}
+
+/* .shamimp img{
+    margin-top: 3;
+} */
+
+.shamimp img{
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+img.x16dsc37 {
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+img.x16dsc371 {
+    margin-left: -7px;
+    margin-left: 715px;
+    margin-top: -23px;
+    position: absolute;
+}
+
+
+.dhaka_college{
+    width: 836px;
+    /* height: 100vh; */
+    /* background-color: #b89ea7; */
+    margin-top: 700px;
     margin-left: 610px;
     border: 1px solid #eee;
     border-radius: 10px;
 }
 
+.img1 img{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.img1 p{
+    margin-left: 80px;
+    margin-top: -55px;
+}
+
+.img2 img{
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.img2 p{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+
+.time2{
+    width: 836px;
+    height: 900px;
+    margin-top: 60px;
+    background-color: #b89ea7;
+}
+
+.time2 img{
+    height: 900px;
+    margin-left: 140px;
+}
+
+.time2 p{
+    position: absolute;
+   margin-top: -40px;
+   margin-left: 20px;
+}
+
+.ha_emoji img{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.like5_emoji img{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 45px;
+}
+
+.edit{
+  position: absolute;
+  margin-top: -20px;
+  margin-left: 65px;
+}
+
+.comments3 p{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 720px;
+}
+
+.bottom2{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.388);
+    width: 95%;
+    margin-left:20px;
+}
+.bottom3{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.388);
+    width: 95%;
+    margin-left:20px;
+    margin-top: 10px;
+}
+.like_dc {
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.like_dc p{
+margin-top: -20px;
+margin-left: 20px;
+}
+
+.comment_dc  ul21 {
+   display: flex;
+}
+
+.comment_dc  ul21 li{
+    list-style-type: none;
+}
+
+.comment_dc  ul21 li .fa-solid {
+    margin-top: -60px;
+    margin-left: 300px;
+}
+
+.comment_dc ul21 li .fa-solid {
+    margin-top: -20px;
+    margin-left: 350px;
+    position: absolute;
+}
+
+.comment_dc ul21 li p{
+    margin-top: -20px;
+    margin-left: 375px;
+}
+
+
+.comment_dc1 ul22{
+    display: flex;
+}
+
+.comment_dc1 ul22 li{
+    list-style-type: none;
+}
+
+.comment_dc1 ul22 li .fa-paper-plane{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 650px;
+}
+
+.comment_dc1 ul22 li p{
+    margin-top: -20px;
+    margin-left: 670px;
+}
