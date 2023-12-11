@@ -42,6 +42,7 @@ nav{
     margin-top: 10px;
     padding-top: 4px;
     gap: 13px;
+    cursor: pointer;
     
     
 }
@@ -1523,6 +1524,7 @@ margin-left: 20px;
     margin-top: -107.5%;
     margin-left: 1840px; 
     margin-right: 10px;
+    cursor: pointer;
 }
 /*------------------------- Right Side Searchbar CSS Apply End -----------------------*/
 /*------------------------- Right Side Dot CSS Apply Stat -----------------------*/
@@ -1537,7 +1539,7 @@ margin-left: 20px;
 .tamanna_a img {
     position: absolute;
     margin-top: -106%;
-    margin-left: 1640px; 
+    margin-left: 1646px; 
     margin-right: 10px;
     border-radius: 50px;
     cursor: pointer;
@@ -1574,7 +1576,7 @@ margin-left: 20px;
     margin-top: -33px;
     width: 10px;
     height: 10px;
-    margin-left: 1648px;
+    margin-left: 1652px;
     margin-top: -2010px;
     position: absolute;
 }
@@ -1593,7 +1595,7 @@ margin-left: 20px;
 .hridoy_active img {
     position: absolute;
     margin-top: -103%;
-    margin-left: 1640px; 
+    margin-left: 1646px; 
     margin-right: 10px;
     border-radius: 50px;
     cursor: pointer;
@@ -1630,7 +1632,7 @@ margin-left: 20px;
     /* margin-top: -30px; */
     width: 10px;
     height: 10px;
-    margin-left: 1648px;
+    margin-left: 1652px;
     margin-top: -1955px;
     position: absolute;
 }
@@ -1645,5 +1647,338 @@ margin-left: 20px;
     cursor: pointer;
 }
 /*-------------------------- Hriday CSS Apply End -----------------------------*/
+
+/*-------------------------- Chancal Kundu CSS Apply Start------------------------- */
+
+.chan {
+    position: absolute;
+    margin-top: -1900px;
+    margin-left: 1640px;
+    width: 400px;
+    height: 40px;
+    /* height: 200px; */
+    /* background-color: #616161; */
+    border-radius: 10px;
+    /* padding-left: 0; */
+}
+
+.chan img{
+    margin-top: ;
+    margin-left: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    
+}
+
+.chan p{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ring-container3 {
+    position: relative;
+}
+
+.circle3 {
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring3 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle3 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-top: -1895px;
+    margin-left: 1660px;
+    position: absolute;
+}
+
+
+
+.chan:hover{
+    background-color: #61616189;
+       
+}
+
+/*-------------------------- Chancal Kundu CSS Apply End------------------------- */
+
+/*-------------------------- Ps Vai CSS Apply Start------------------------- */
+.ps_vai{
+    position: absolute;
+    margin-top: -1840px;
+    margin-left: 1640px;
+    width: 400px;
+    height: 45px;
+    /* background-color: #616161; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.ps_vai img{
+    border-radius: 50px;
+    padding-left: 10px;
+    margin-top: 3px;
+}
+
+.ps_vai p{
+    margin-top: -30px;
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.ps_vai:hover{
+    background-color: #61616189;
+}
+
+.ring-container4 {
+    position: relative;
+}
+
+.circle4{
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring4 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle4 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-top: -1832px;
+    margin-left: 1660px;
+    position: absolute;
+}
+/*-------------------------- Ps Vai CSS Apply End------------------------- */
+
+/*-------------------------- Madam CSS Apply Start------------------------- */
+.madam{
+    position: absolute;
+    margin-top: -1770px;
+    margin-left: 1650px;
+    cursor: pointer;
+    width: 400px;
+    height: 40px;
+    /* background-color: #0866ff; */
+    border-radius: 10px;
+}
+
+.madam img{
+    border-radius: 50px;
+    margin-left: 6px;
+}
+
+.madam p{
+    margin-top: -35px;
+    margin-left: 55px;
+    font-weight: bold;
+}
+
+.madam:hover{
+    background-color: #61616189;
+}
+
+.ring-container5 {
+    position: relative;
+}
+
+.circle5{
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring5 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle5 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-top: -1765px;
+    margin-left: 1665px;
+    position: absolute;
+}
+
+/*-------------------------- Madam CSS Apply End------------------------- */
+
+.kamrul{
+    position: absolute;
+    width: 400px;
+    height: 40px;
+    /* background-color: #61616189; */
+    margin-top: -1705px;
+    margin-left: 1650px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.kamrul img{
+    border-radius: 50px;
+    margin-left: 6px;
+}
+
+.kamrul p{
+    margin-top: -30px;
+    margin-left: 55px;
+    font-weight: bold;
+}
+
+.kamrul:hover{
+    background-color: #61616189;
+}
+
+.ring-container6 {
+    position: relative;
+}
+
+.circle6{
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring6 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle6 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-top: -1703px;
+    margin-left: 1665px;
+    position: absolute;
+}
+
+/*-------------- Osman Goni Active Status CSS Start ------------------------*/
+
+.osman{
+    position: absolute;
+    margin-top: -1635px;
+    margin-left: 1660px;
+    border-radius: 10px;
+    width: 400px;
+    height: 40px;
+    /* background-color: #61616189; */
+    cursor: pointer;
+}
+
+.osman img{
+    border-radius: 50px;
+    margin-left: 2px;
+}
+
+.osman  p{
+    margin-top: -30px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.osman:hover{
+    background-color: #61616189;
+}
+
+.ring-container7 {
+    position: relative;
+}
+
+.circle7{
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring7 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle7 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-top: -1630px;
+    margin-left: 1668px;
+    position: absolute;
+}
+
+/*-------------- Osman Goni Active Status CSS End ------------------------*/
+
 
 
