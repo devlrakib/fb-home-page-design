@@ -210,6 +210,7 @@ input{
 .facebook_pages:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 /*----------------Facebook pages End------------------- */
@@ -236,6 +237,7 @@ input{
 .facebook_paged:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------- Facebook Saved End---------- */
 
@@ -262,6 +264,7 @@ input{
 .memories:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 /*------- Facebook Memories CSS Apply End--------*/
@@ -290,6 +293,7 @@ input{
 .group:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 
@@ -319,7 +323,9 @@ svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq {
 
 .see_more:hover{
     background-color: #eee;
+    padding: 10px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 /*------- Facebook See More CSS End----------- */
@@ -378,6 +384,7 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
 .seo_expert:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------ SEO Expert CSS End------ */
 
@@ -407,6 +414,7 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
 .freelancer:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------ Learn From Top Rated Freelamcer End------------- */
 
@@ -431,6 +439,7 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
 .wordpress:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------ Free Wordpress Theme And Plugin End ----------- */
 
@@ -456,6 +465,7 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
 .hablu:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------ hablu programmer community End ----------- */   
 
@@ -482,6 +492,7 @@ span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6 {
 .unique:hover{
     background-color: #eee;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 /* ------ Unique Way Of Your Selling service End --------- */
@@ -519,63 +530,69 @@ svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq {
 /* ------ Middle Position header Start -------- */
 .first_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 610px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .second_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 760px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .third_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 910px;
-    border-radius: 10px; 
+    border-radius: 10px;
+    cursor: pointer; 
 }
 
 .fourth_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 1060px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .five_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 1210px;
-    border-radius: 10px; 
+    border-radius: 10px;
+    cursor: pointer; 
 }
 
 .six_img{
     position: absolute;
-    margin-top: -660px;
+    margin-top: -790px;
     margin-left: 1360px;
     border-radius: 10px;
+    cursor: pointer;
 }
 /* ------ Middle Position header End -------- */
 
-.section{
+.section {
     position: absolute;
     width: 836px;
     height: 125px;
     /* background-color: aqua; */
-    margin-top: -380px;
+    margin-top: -490px;
     margin-left: 610px;
     border: 1px solid #eee;
     border-radius: 10px;
 }
-
 .account img{
     width: 50px;
     height: 50px;
     margin-top: 10px;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 
@@ -603,8 +620,9 @@ input#mind {
 }
 
 img.xz74otr {
-    margin-top: 10px;
+    margin-top: -103px;
     margin-left: 150px;
+    position: absolute;
 }
 
 .live_vide .video{
@@ -623,45 +641,81 @@ img.xz74otr {
    
 }
 
+.live_video:hover{
+    cursor: pointer;
+}
+
 p.video {
-    margin-top: -25px;
+    margin-top: -100px;
     margin-left: 180px;
-}
-.photo .xz74otr {
     position: absolute;
-    margin-top: -290px;
-    margin-left: 980px;
 }
+.photo .xz74otr1 {
+    position: absolute;
+    margin-top: -403px;
+    margin-left: 980px;
+    cursor: pointer;    
+}
+.photo .ph {
+    position: absolute;
+    margin-top: -399px;
+    margin-left: 1000px;
+    margin-left: 980px;
+    cursor: pointer;
+    margin-left: 1010px;
+}
+
+.feeling .xz74otr2 {
+    position: absolute;
+    margin-top: -403px;
+    margin-left: 1210px;
+    cursor: pointer;    
+}
+.feeling .fp {
+    position: absolute;
+    margin-top: -399px;
+    margin-left: 3500px;
+    cursor: pointer;
+    margin-left: 1240px;
+}
+
+
+
 
 
 span.x1lliihq.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
     position: absolute;
     margin-top: -285px;
     margin-left: 1010px;
+    cursor: pointer;
 }
 
 img.xz74otr1 {
     position: absolute;
-    margin-top: -290px;
+    margin-top: -190px;
     margin-left: 1220px;
+    cursor: pointer;
 }
 
 span.x1lliihq1.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
     position: absolute;
     margin-top: -285px;
     margin-left: 1250px;
+    cursor: pointer;
 }
 
-.container_1{
+.container_1 {
     position: absolute;
     width: 836px;
     height: 100vh;
     /* background-color: aqua; */
-    margin-top: -240px;
+    margin-top: -330px;
     margin-left: 610px;
     border: 1px solid #eee;
     border-radius: 10px;
 }
+
+
 
 .hablu_sajjad ul14{
     display: flex;
@@ -676,11 +730,13 @@ span.x1lliihq1.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
     margin-top: 20px;
     margin-left: 25px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .hablu_sajjad ul14 p{
     margin-top: 22px;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 
@@ -697,12 +753,14 @@ span.x1lliihq1.x6ikm8r.x10wlt62.x1n2onr6.xlyipyv.xuxw1ft {
     border-radius: 50px;
     margin-top: -28px;
     margin-left: 52px;
+    cursor: pointer;
 }
 
 .hablu_sajjad1 ul14 p{
     position: absolute;
     margin-top: -32px;
     margin-left: 82px;
+    cursor: pointer;
 }
 
 ul142 .x1i10hfl{
@@ -995,10 +1053,21 @@ img.x16dsc371 {
     width: 836px;
     /* height: 100vh; */
     /* background-color: #b89ea7; */
-    margin-top: 700px;
+    margin-top: 630px;
     margin-left: 610px;
     border: 1px solid #eee;
     border-radius: 10px;
+}
+
+.hablu_sajjad12 i{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 95%;
+}
+.hablu_sajjad13 i{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 90%;
 }
 
 .img1 img{
@@ -1128,3 +1197,259 @@ margin-left: 20px;
     margin-top: -20px;
     margin-left: 670px;
 }
+
+.left_privacy1 ul26{
+    display: flex;
+    list-style-type: none;
+    margin-top: 100px;
+    /* margin-left: 20px; */
+}
+
+.left_privacy1 ul26 li{
+    padding-right: 5px;
+}
+
+.left_privacy1 ul26 li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+/* .left_privacy1:hover{
+    cursor: pointer;
+    text-decoration: underline;    
+} */
+
+.Privacy:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.Terms:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.Advertising:hover{
+    cursor: pointer;
+    text-decoration: underline; 
+}
+.Ad:hover{
+    cursor: pointer;
+    text-decoration: underline; 
+}
+
+.left_privacy2 ul27{
+    display: flex;
+    list-style-type: none;
+}
+
+.left_privacy2 ul27 li{
+    padding-right: 5px;
+}
+
+.left_privacy2 ul27 li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.Cookies:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.more:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.Meta:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+/* -------------- Right Section CSS Start -------------- */
+
+.your_pages p{
+    position: absolute;
+    margin-top: -132%;
+    margin-left: 85%;
+    font-size: 16px;
+    color: #616161;
+}
+
+.dot .fa-ellipsis-h{
+    position: absolute;
+    margin-top: -132.5%;
+    margin-left: 98%;
+    width: 30px;
+    height: 30px;
+    padding-top: 5px;
+    /* padding: 10px; */
+    /* height: 40px; */
+    /* border: 2px solid red; */
+    text-align: center;
+    border-radius: 20px;
+}
+
+.dot .fa-ellipsis-h:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #616161;
+}
+.l_f_img img{
+    position: absolute;
+    margin-top: -130%;
+    margin-left: 85%;
+    border-radius: 50px;
+}
+
+.l_f_img p{
+    position: absolute;
+    margin-top: -129.2%;
+    margin-left: 88.2%;
+
+}
+
+.l_f_img li{
+    list-style-type: none;
+}
+
+.l_f_img:hover{
+    cursor: pointer;
+    background-color: #616161;  
+}
+
+
+.profile_cng .x1b0d498{
+    position: absolute;
+    margin-top: -126.5%;
+    margin-left: 1640px;
+    cursor: pointer;
+}
+
+.profile_cng p{
+    position: absolute;
+    margin-top: -126.5%;
+    margin-left: 88.2%; 
+    color: #616161;
+    cursor: pointer;
+}
+
+.promotion .x1b0d490{
+    position: absolute;
+    margin-top: -124.5%;
+    margin-left: 1640px;
+    cursor: pointer;
+}
+
+.promotion p{
+    position: absolute;
+    margin-top: -124.5%;
+    margin-left: 1680px; 
+    color: #616161;
+    cursor: pointer; 
+}
+
+.boder_bottom5{
+    position: absolute;
+    margin-top: -123%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    width: 360px;
+    border: 2px solid #eee;
+}
+
+.friend_request .p{
+    position: absolute;
+    margin-top: -122%;
+    margin-left: 1640px;
+    color: #616161;
+}
+.friend_request .p1{
+    position: absolute;
+    margin-top: -122%;
+    margin-left: 1850px;
+    color: rgb(13, 72, 247);
+}
+
+.krishno img{
+    position: absolute;
+    margin-top: -120%;
+    margin-left: 1640px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.krishno .p{
+    position: absolute;
+    margin-top: -119.8%;
+    margin-left: 1710px;
+    cursor: pointer;
+}
+.krishno .p1{
+    position: absolute;
+    margin-top: -119.8%;
+    margin-left: 1870px;
+    color: #70843d;
+    cursor: pointer;
+}
+
+.moynul img{
+    position: absolute;
+    margin-top: -118.5%;
+    margin-left: 1710px;
+    border-radius: 50px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.chancal img{
+    position: absolute;
+    margin-top: -118.5%;
+    margin-left: 1725px;
+    border-radius: 50px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+.chancal p{
+    position: absolute;
+    margin-top: -118.5%;
+    margin-left: 1748px;
+    border-radius: 50px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.btn{
+    position: absolute;
+    margin-top: -117%;
+    margin-left: 1700px;
+    border-radius: 10px;
+    cursor: pointer; 
+    /* border: 2px solid red; */
+    padding: 10px 20px;
+    background-color: #0866ff;
+    color: white;
+}
+.btn1{
+    position: absolute;
+    margin-top: -117%;
+    margin-left: 1800px;
+    border-radius: 10px;
+    cursor: pointer; 
+    /* border: 2px solid red; */
+    padding: 10px 20px;
+    background-color: #0866ff;
+    color: white;
+}
+
+.boder_bottom6{
+    position: absolute;
+    margin-top: -114%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    width: 360px;
+    border: 2px solid #eee;
+}
+
