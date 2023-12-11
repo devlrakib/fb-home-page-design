@@ -1453,3 +1453,197 @@ margin-left: 20px;
     border: 2px solid #eee;
 }
 
+.birthday p{
+    position: absolute;
+    margin-top: -113%;
+    margin-left: 1640px;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #616161; 
+    cursor: pointer;
+    /* margin-right: 10px; */
+    /* width: 360px; */
+    
+}
+.birth .x1b0d41{
+    position: absolute;
+    margin-top: -111%;
+    margin-left: 1640px;
+    font-size: 16px;
+    font-weight: 600px;
+    color: #616161; 
+    cursor: pointer;
+    /* margin-right: 10px; */
+    /* width: 360px; */
+    
+}
+   
+.birth p{
+    position: absolute;
+    margin-top: -110.3%;
+    margin-left: 1680px;
+    font-size: 15px;
+    font-weight: 600px;
+    color: black;
+    cursor: pointer; 
+    /* margin-right: 10px; */
+    /* width: 360px; */
+    
+}
+
+.boder_bottom7{
+    position: absolute;
+    margin-top: -108%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    width: 360px;
+    border: 2px solid #eee;
+    
+}
+
+.contact6 p{
+    position: absolute;
+    margin-top: -107.5%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    width: 360px;
+    font-size: 16px;
+    font-weight: 400px;
+    /* border: 2px solid #eee; */
+    color: #616161;
+}
+
+/* .contact6 p:hover{
+    background-color: #616161;
+} */
+
+/*------------------------- Right Side Searchbar CSS Apply Stat -----------------------*/
+.search3 .fas{
+    position: absolute;
+    margin-top: -107.5%;
+    margin-left: 1840px; 
+    margin-right: 10px;
+}
+/*------------------------- Right Side Searchbar CSS Apply End -----------------------*/
+/*------------------------- Right Side Dot CSS Apply Stat -----------------------*/
+.dot_left .fa-solid {
+    position: absolute;
+    margin-top: -107.5%;
+    margin-left: 1870px; 
+    margin-right: 10px;
+}
+/*------------------------- Right Side Dot CSS Apply End -----------------------*/
+/*-------------------------- Tamanna CSS Apply Start -----------------------------*/
+.tamanna_a img {
+    position: absolute;
+    margin-top: -106%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+/*------------------------ Tamanna Active Start Circle CSS Apply Start -------------------------*/
+.ring-container1 {
+    position: relative;
+}
+
+.circle1 {
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring1 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle1 {
+    margin-top: -33px;
+    width: 10px;
+    height: 10px;
+    margin-left: 1648px;
+    margin-top: -2010px;
+    position: absolute;
+}
+/*------------------------ Tamanna Active Start Circle CSS Apply End -------------------------*/
+.tamanna_name{
+    position: absolute;
+    margin-top: -105.4%;
+    margin-left: 1690px; 
+    margin-right: 10px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+/*-------------------------- Tamanna CSS Apply End -----------------------------*/
+/*-------------------------- Hriday CSS Apply Start -----------------------------*/
+.hridoy_active img {
+    position: absolute;
+    margin-top: -103%;
+    margin-left: 1640px; 
+    margin-right: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+/*------------------------ Hriday Active Start Circle CSS Apply Start -------------------------*/
+.ring-container2 {
+    position: relative;
+}
+
+.circle2 {
+    width: 15px;
+    height: 15px;
+    background-color: #31a14c;
+    border-radius: 50%;
+    position: absolute;
+    top: 23px;
+    left: 23px;
+}
+
+.ringring2 {
+    border: 3px solid #31a14c;
+    -webkit-border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.0
+}
+
+.circle2 {
+    /* margin-top: -30px; */
+    width: 10px;
+    height: 10px;
+    margin-left: 1648px;
+    margin-top: -1955px;
+    position: absolute;
+}
+/*------------------------ Hriday Active Start Circle CSS Apply End -------------------------*/
+.hriday_name{
+    position: absolute;
+    margin-top: -102.3%;
+    margin-left: 1692px; 
+    margin-right: 10px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+/*-------------------------- Hriday CSS Apply End -----------------------------*/
+
+
